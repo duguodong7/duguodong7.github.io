@@ -1,19 +1,13 @@
 # Site Author
 author:
-  name             : "DU Guodong"
+  name             : "Guodong Du (杜国东)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
+  location         : "Shenzhen, China"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
   foursquare       :
   github           : # e.g., "github username"
