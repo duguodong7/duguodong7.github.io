@@ -28,7 +28,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Fusion By Evolving Weights of Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
