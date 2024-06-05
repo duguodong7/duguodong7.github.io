@@ -39,13 +39,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 </div>
 
-- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), Guodong Du, et al. **arXiv24**
+- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), **Guodong Du**, et al. **arXiv24**
 
-- [Parameter Competition Balancing for Model Merging](https://github.com), Guodong Du, et al. **arXiv24**
+- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **arXiv24**
 
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang, Guodong Du\*, et al. **IJCNN 2024**
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang, **Guodong Du**\*, et al. **IJCNN 2024**
 
-- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), Guodong Du, et al. **arXiv24**
+- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **arXiv24**
 
 - [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), Guodong Du, et al. **arXiv24**
 
@@ -53,7 +53,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [End-to-end Rain Streak Removal with RAW Images](https://github.com), Guodong Du, et al. **arXiv20**
 
-- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, Guodong Du, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
+- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
 
 # 🎖 Honors and Awards
