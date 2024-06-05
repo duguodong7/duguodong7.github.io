@@ -24,7 +24,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉🎉 One paper is accepted by ACL24 Findings. Thanks to all my collaborators!. 
-- *2024.12*: &nbsp; One paper is rejected by ICLR24. 
+- *2023.12*: &nbsp; One paper is rejected by ICLR24. 
 
 # 📝 Publications 
 
@@ -47,14 +47,14 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **arXiv24**
 
-- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), Guodong Du, et al. **arXiv24**
+- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **arXiv24**
 
 - [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
 
-- [End-to-end Rain Streak Removal with RAW Images](https://github.com), Guodong Du, et al. **arXiv20**
+- [End-to-end Rain Streak Removal with RAW Images](https://github.com), **Guodong Du**, et al. **arXiv20**
 
 - [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
-
+(*: Co-first Author)
 
 # 🎖 Honors and Awards
 - *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
