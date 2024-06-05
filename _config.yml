@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guodong Du"
-description              : "Guodong Du's academic homepage"
+description              : "Academic Homepage"
 repository               : "duguodong7/duguodong7.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guodong Du(杜国东)"
-  avatar           : "images/35*45.jpg"
-  bio              : "HITSZ"
+  avatar           : "images/guodong111.jpg"
+  bio              : "Harbin Institute of Technology (Shenzhen), HITSZ"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/duguodong7"
+  github           : "duguodong7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : "linkedin 国东-杜-30b496169" # https://www.linkedin.com/in/%E5%9B%BD%E4%B8%9C-%E6%9D%9C-30b496169/
+  dblp             : "https://dblp.org/pid/213/8915-4.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  openview         : "https://openreview.net/profile?id=~Guodong_DU2"
 
 
 # Reading Files
