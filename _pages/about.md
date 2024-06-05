@@ -20,7 +20,7 @@ redirect_from:
 Hello there! I'm Guodong Du, currently a Research Assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
 Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @ National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 
-My research interest includes knowledge transfer, fusion and compression, multi-modality, heuristic algorithms, spiking neural networks and low level computer vision.
+My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉🎉 One paper is accepted by ACL24 Findings. Thanks to all my collaborators!. 
