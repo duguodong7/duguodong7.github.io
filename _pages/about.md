@@ -55,7 +55,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
-(*: Co-first Author)
+&nbsp; &nbsp; (*: Co-first Author)
 
 # 🎖 Honors and Awards
 - *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
