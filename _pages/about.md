@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello there! I'm Guodong Du, currently a Research Assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
+Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @ National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes knowledge transfer, fusion and compression, multi-modality, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉🎉 One paper is accepted by ACL24 Findings. Thanks to all my collaborators!. 
+- *2024.12*: &nbsp; One paper is rejected by ICLR24. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Knowledge Fusion By Evolving Weights of Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Guodong Du**, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Jing Li, Ho-Kin Tang 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Model evolution is the first work aiming to evolve neural parameters. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), Guodong Du, et al. **arXiv preprint**
+
+- [Parameter Competition Balancing for Model Merging](https://github.com), Guodong Du, et al. **arXiv preprint**
+
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://github.com), Runhua Jiang, Guodong Du\*, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, **IJCNN 2024**
+
+- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), Guodong Du, et al. **arXiv preprint**
+
+- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), Guodong Du, et al. **arXiv preprint**
+
+- [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
+
+- [End-to-end Rain Streak Removal with RAW Images](https://github.com), Guodong Du, et al. **arXiv preprint**
+
+- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com)Xiaoguang Tu, Guodong Du, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
+- *2017.09* National Encouragement scholarship
+- *2016.05* Honorable Award in MCM (The Mathematical Contest in Modeling) 2021
+- *2016.05* National Encouragement scholarship
+- *2015.05* National scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.09 - 2021.07*, PhD Candidate (Drop out), National University of Singapore (NUS)
+- *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
+- *2016.07 - 2016.12*, (Non-degree Undergraduate Exchange) City University of Hong kong (CityU) 
+- *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - 2024.09*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html), Shenzhen, China.
+- *2023.03 - 2024.09*, [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
+- *2019.09 - 2021.09*, [Learning and Vision Lab](http://lv-nus.org), Singapre.
+- *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
+- *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
+- *2018.01 - 2018.04*, YoueData, Chengdu, China
+
