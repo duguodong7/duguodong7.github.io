@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I'm Guodong Du, currently a Research Assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
-Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @ National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
+Hello there! I'm Guodong Du, currently a research assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
+Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 
 My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
@@ -33,27 +33,27 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 [Knowledge Fusion By Evolving Weights of Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
 
-**Guodong Du**, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Jing Li, Ho-Kin Tang 
+**Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
 
 - Model evolution is the first work aiming to evolve neural parameters. 
 </div>
 </div>
 
-- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), Guodong Du, et al. **arXiv preprint**
+- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), Guodong Du, et al. **arXiv24**
 
-- [Parameter Competition Balancing for Model Merging](https://github.com), Guodong Du, et al. **arXiv preprint**
+- [Parameter Competition Balancing for Model Merging](https://github.com), Guodong Du, et al. **arXiv24**
 
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://github.com), Runhua Jiang, Guodong Du\*, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, **IJCNN 2024**
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang, Guodong Du\*, et al. **IJCNN 2024**
 
-- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), Guodong Du, et al. **arXiv preprint**
+- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), Guodong Du, et al. **arXiv24**
 
-- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), Guodong Du, et al. **arXiv preprint**
+- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), Guodong Du, et al. **arXiv24**
 
 - [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
 
-- [End-to-end Rain Streak Removal with RAW Images](https://github.com), Guodong Du, et al. **arXiv preprint**
+- [End-to-end Rain Streak Removal with RAW Images](https://github.com), Guodong Du, et al. **arXiv20**
 
-- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com)Xiaoguang Tu, Guodong Du, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
+- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, Guodong Du, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
 
 # 🎖 Honors and Awards
@@ -66,7 +66,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 📖 Educations
 - *2019.09 - 2021.07*, PhD Candidate (Drop out), National University of Singapore (NUS)
 - *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
-- *2016.07 - 2016.12*, (Non-degree Undergraduate Exchange) City University of Hong kong (CityU) 
+- *2016.07 - 2016.12*, Visiting. City University of Hong kong (CityU) (Non-degree Undergraduate Exchange)
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
 
 # 💻 Internships
