@@ -54,6 +54,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 - [End-to-end Rain Streak Removal with RAW Images](https://github.com), **Guodong Du**, et al. **arXiv20**
 
 - [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
+
 (*: Co-first Author)
 
 # 🎖 Honors and Awards
