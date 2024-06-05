@@ -35,7 +35,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://openreview.net/profile?id=~Guodong_DU2"
   foursquare       :
   github           : "duguodong7"
   google_plus      :
@@ -43,21 +43,17 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin 国东-杜-30b496169" # https://www.linkedin.com/in/%E5%9B%BD%E4%B8%9C-%E6%9D%9C-30b496169/
+  linkedin         : "linkedin 国东-杜" # https://www.linkedin.com/in/%E5%9B%BD%E4%B8%9C-%E6%9D%9C-30b496169/
   dblp             : "https://dblp.org/pid/213/8915-4.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://openreview.net/profile?id=~Guodong_DU2"
   steam            :
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  openview         : "https://openreview.net/profile?id=~Guodong_DU2"
+
 
 
 # Reading Files
