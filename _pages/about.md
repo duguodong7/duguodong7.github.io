@@ -43,7 +43,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **arXiv24**
 
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang, **Guodong Du**\*, et al. **IJCNN 2024**
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN 2024**
 
 - [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **arXiv24**
 
@@ -55,7 +55,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
-&nbsp; &nbsp; (*: Co-first Author)
+&nbsp; &nbsp; ( *: Co-first Author )
 
 # 🎖 Honors and Awards
 - *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
