@@ -23,8 +23,9 @@ Prior to joining HITSZ, I was a research intern and master student in [Learning 
 My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
+- *2024.06*: Two papers are submitted to NeurIPS 2024.
 - *2024.05*: &nbsp;🎉🎉🎉 One paper is accepted by ACL24 Findings. Thanks to all my collaborators!. 
-- *2023.12*: &nbsp; One paper is rejected by ICLR24. 
+- *2023.12*: &nbsp; Two papers are rejected by ICLR24. 
 
 # 📝 Publications 
 
@@ -39,13 +40,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 </div>
 
-- [Neural Parameter Search for Enhanced Knowledge Transfer, Merging and Compression](https://github.com), **Guodong Du**, et al. **arXiv24**
+- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **will be submitted to ICLR**
 
-- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **arXiv24**
+- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **submited to NeurIPS24**
 
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN 2024**
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
 
-- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **arXiv24**
+- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **IEEE SMC24**
 
 - [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **arXiv24**
 
