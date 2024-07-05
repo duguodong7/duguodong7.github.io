@@ -40,7 +40,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 </div>
 
-- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **will be submitted to ICLR**
+- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **will be submitted to ICLR25**
 
 - [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **submited to NeurIPS24**
 
