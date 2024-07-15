@@ -42,13 +42,19 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **will be submitted to ICLR25**
 
+- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://github.com), **Guodong Du**, et al. **will be submitted to AAAI25**
+
 - [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **submited to NeurIPS24**
+
+- [Efficient Multi-Modality Model Merging](https://github.com), Runhua Jiang\*, **Guodong Du**\*, et al. **submited to NeurIPS24**
 
 - [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
 
 - [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **IEEE SMC24**
 
-- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **arXiv24**
+- [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://github.com), Yisheng Yang, **Guodong Du**, et al. **IEEE SMC24**
+
+- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **IEEE Cyber**
 
 - [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
 
