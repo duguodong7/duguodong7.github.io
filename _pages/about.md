@@ -24,11 +24,11 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 🔥 News
 - *2024.09*: Two first author papers are submitted to ICLR 2025.
-- *2024.08*: One first author papers is submitted to AAAI 2025.
+- *2024.08*: One first author paper is submitted to AAAI 2025.
 - *2024.07*: &nbsp;🎉🎉🎉 One first author papers is accepted by IEEE SMC 2024. Thanks to all my collaborators!.
 - *2024.06*: One first author papers is submitted to NeurIPS 2024.
 - *2024.05*: &nbsp;🎉🎉🎉 One first author paper is accepted by ACL 2024 Findings. Thanks to all my collaborators!.
-- *2024.07*: &nbsp;🎉🎉🎉 One co-first author papers is accepted by IJCNN 2024. Thanks to all my collaborators!.
+- *2024.03*: &nbsp;🎉🎉🎉 One co-first author papers is accepted by IJCNN 2024. Thanks to all my collaborators!.
 - *2023.12*: &nbsp; Two first author papers are rejected by ICLR 2024. 
 
 # 📝 Publications 
