@@ -23,9 +23,13 @@ Prior to joining HITSZ, I was a research intern and master student in [Learning 
 My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
-- *2024.06*: Two papers are submitted to NeurIPS 2024.
-- *2024.05*: &nbsp;🎉🎉🎉 One paper is accepted by ACL24 Findings. Thanks to all my collaborators!. 
-- *2023.12*: &nbsp; Two papers are rejected by ICLR24. 
+- *2024.09*: Two first author papers are submitted to ICLR 2025.
+- *2024.08*: One first author papers is submitted to AAAI 2025.
+- *2024.07*: &nbsp;🎉🎉🎉 One first author papers is accepted by IEEE SMC 2024. Thanks to all my collaborators!.
+- *2024.06*: One first author papers is submitted to NeurIPS 2024.
+- *2024.05*: &nbsp;🎉🎉🎉 One first author paper is accepted by ACL 2024 Findings. Thanks to all my collaborators!.
+- *2024.07*: &nbsp;🎉🎉🎉 One co-first author papers is accepted by IJCNN 2024. Thanks to all my collaborators!.
+- *2023.12*: &nbsp; Two first author papers are rejected by ICLR 2024. 
 
 # 📝 Publications 
 
@@ -40,13 +44,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 </div>
 
-- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **will be submitted to ICLR25**
+- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **arXiv24**
 
-- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://github.com), **Guodong Du**, et al. **will be submitted to AAAI25**
+- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://github.com), **Guodong Du**, et al. **arXiv24**
+ 
+- [Efficient Multi-Modality Model Merging](https://github.com), Junlin Lee\*, **Guodong Du**\*, et al. **arXiv24**
 
-- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **submited to NeurIPS24**
-
-- [Efficient Multi-Modality Model Merging](https://github.com), Runhua Jiang\*, **Guodong Du**\*, et al. **submited to NeurIPS24**
+- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **arXiv24**
 
 - [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
 
