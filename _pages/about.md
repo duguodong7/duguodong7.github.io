@@ -76,7 +76,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 - *2015.05* National scholarship
 
 # 📖 Educations
-{% - *2019.09 - 2021.07*, PhD Candidate (Drop out), National University of Singapore (NUS) %}
+- *2019.09 - 2021.05*, Part-time PhD student, National University of Singapore (NUS)
 - *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
 - *2016.07 - 2016.12*, Visiting. City University of Hong kong (CityU) (Non-degree Undergraduate Exchange)
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
