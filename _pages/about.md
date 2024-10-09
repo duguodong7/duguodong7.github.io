@@ -50,18 +50,17 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 **Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
 
-- We re-examine existing model merging methods, emphasizing the critical importance of parameter competition awareness, and introduce PCB-Merging, which effectively adjusts parameter coefficients by balancing parameter competition. 
+- We re-examine existing model merging methods, emphasizing the critical importance of parameter competition awareness, and introduce PCB-Merging, which effectively adjusts parameter coefficients. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Knowledge Fusion By Evolving Weights of Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
 
-- Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method that evolves language model weights and integrates seamlessly with existing model merging techniques.
+- Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method by evolving weights of  (large)  language models.
 </div>
 </div>
 - [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **IEEE SMC24**
