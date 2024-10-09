@@ -34,11 +34,22 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 📝 Recent Projects 
 
 - [Knowledge Grafting of Large Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
-- [Knowledge Fusion: The Integration of Model Capabilities.](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
-- [Knowledge Grafting of Large Language Models](https://openreview.net/pdf?id=SGIpg02iXD), submitted to ICLR 2025
-- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://openreview.net/pdf?id=SGIpg02iXD), submitted to AAAI 2025
+- [Knowledge Fusion: A Comprehensive Survey.](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
+- [Multi-Modality Expansion And Retention For LLMs Through Parameter Merging And Decoupling](https://openreview.net/pdf?id=SGIpg02iXD), submitted to ICLR 2025
+- [Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression](https://openreview.net/pdf?id=SGIpg02iXD), submitted to AAAI 2025
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396)
+
+**Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
+
+- We re-examine existing model merging methods, emphasizing the critical importance of parameter competition awareness, and introduce PCB-Merging, which effectively adjusts parameter coefficients by balancing parameter competition. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,14 +61,6 @@ My research interest includes knowledge transfer, fusion and compression, multim
 - Model evolution is the first work aiming to evolve neural parameters. 
 </div>
 </div>
-
-- [Activation Aware Prunning for Merging LLMs](https://github.com), **Guodong Du**, et al. **arXiv24**
-
-- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://github.com), **Guodong Du**, et al. **arXiv24**
- 
-- [Efficient Multi-Modality Model Merging](https://github.com), Junlin Lee\*, **Guodong Du**\*, et al. **arXiv24**
-
-- [Parameter Competition Balancing for Model Merging](https://github.com), **Guodong Du**, et al. **arXiv24**
 
 - [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
 
