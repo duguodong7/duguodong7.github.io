@@ -36,10 +36,10 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 📝 Recent Projects 
 
-- Knowledge Grafting of Large Language Models. [Demo](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/knowledge_grafting.png)
+- Knowledge Grafting of Large Language Models. [Demo](https://duguodong7.github.io/files/knowledge_grafting.png)
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
-- Multi-Modality LLMs Knowledge Fusion And Decoupling. [[PDF]](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/MMER_w_supp.pdf), [[Demo]](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/mmer2.png), submitted to ICLR 2025
-- Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression. [[PDF]](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Demo]](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/NPS_pruning.png), submitted to AAAI 2025
+- Multi-Modality LLMs Knowledge Fusion And Decoupling. [[PDF]](https://duguodong7.github.io/files/MMER_w_supp.pdf), [[Demo]](https://duguodong7.github.io/files/mmer2.png), submitted to ICLR 2025
+- Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression. [[PDF]](https://duguodong7.github.io/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Demo]](https://duguodong7.github.io/files/NPS_pruning.png), submitted to AAAI 2025
 
 # 📝 Publications 
 
