@@ -31,6 +31,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
 - *2024.03*: &nbsp;🎉🎉🎉 One co-first author papers is accepted by IJCNN 2024. Thanks to all my collaborators!.
 - *2023.12*: &nbsp; Two first author papers are rejected by ICLR 2024. 
 
+# 📝 Recent Projects 
+
+- [Knowledge Grafting of Large Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
+- [Knowledge Fusion: The Integration of Model Capabilities.](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
+- [Knowledge Grafting of Large Language Models](https://openreview.net/pdf?id=SGIpg02iXD), submitted to ICLR 2025
+- [Neural Parameter Search For Improved Knowledge Transfer, Merge and Compression](https://openreview.net/pdf?id=SGIpg02iXD), submitted to AAAI 2025
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
