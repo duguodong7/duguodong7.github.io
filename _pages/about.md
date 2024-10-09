@@ -23,13 +23,16 @@ Prior to joining HITSZ, I was a research intern and master student in [Learning 
 My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
-- *2024.09*: Two first author papers are submitted to ICLR 2025.
-- *2024.08*: One first author paper is submitted to AAAI 2025.
-- *2024.07*: &nbsp;🎉🎉🎉 One first author papers is accepted by IEEE SMC 2024. Thanks to all my collaborators!.
-- *2024.06*: One first author papers is submitted to NeurIPS 2024.
-- *2024.05*: &nbsp;🎉🎉🎉 One first author paper is accepted by ACL 2024 Findings. Thanks to all my collaborators!.
-- *2024.03*: &nbsp;🎉🎉🎉 One co-first author papers is accepted by IJCNN 2024. Thanks to all my collaborators!.
-- *2023.12*: &nbsp; Two first author papers are rejected by ICLR 2024. 
+ <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
+
+- *2024.09*: &nbsp;One co-first author paper is submitted to ICLR 2025.
+
+- *2024.09*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
+- *2024.08*: &nbsp;One first author paper is submitted to AAAI 2025.
+- *2024.07*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!.
+- *2024.05*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!.
+- *2024.03*: &nbsp;🎉🎉🎉 <span style="color: blue;">One co-first author papers is accepted by IJCNN 2024.</span> Thanks to all my collaborators!.
+- *2023.12*: &nbsp; <span style="color: gray;">Two first author papers are rejected by ICLR 2024.</span> 
 
 # 📝 Recent Projects 
 
@@ -58,22 +61,15 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
 
-- Model evolution is the first work aiming to evolve neural parameters. 
+- Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method that evolves language model weights and integrates seamlessly with existing model merging techniques.
 </div>
 </div>
-
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
-
 - [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **IEEE SMC24**
-
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
 - [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://github.com), Yisheng Yang, **Guodong Du**, et al. **IEEE SMC24**
-
 - [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **IEEE Cyber**
-
 - [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
-
 - [End-to-end Rain Streak Removal with RAW Images](https://github.com), **Guodong Du**, et al. **arXiv20**
-
 - [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
 &nbsp; &nbsp; ( *: Co-first Author )
