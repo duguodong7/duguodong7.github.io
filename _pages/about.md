@@ -45,7 +45,6 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396)
 
 **Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
@@ -56,20 +55,20 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Knowledge Fusion By Evolving Weights of Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
+[Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208)
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
 
 - Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method by evolving weights of  (large)  language models.
 </div>
 </div>
-- [Evolving Neural Network's Weights at Imagenet Scale](https://github.com), **Guodong Du**, et al. **IEEE SMC24**
-- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/abs/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
-- [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://github.com), Yisheng Yang, **Guodong Du**, et al. **IEEE SMC24**
-- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://github.com), **Guodong Du**, et al. **IEEE Cyber**
-- [NTIRE 2021 challenge on video super-resolution](https://github.com), 3rd Place Award, **CVPR2021 Workshop**
-- [End-to-end Rain Streak Removal with RAW Images](https://github.com), **Guodong Du**, et al. **arXiv20**
-- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://github.com) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
+- [Evolving Neural Network's Weights at Imagenet Scale](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al. **IEEE SMC24**
+- [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
+- [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/pdf/2408.05556), Yisheng Yang, **Guodong Du**, et al. **IEEE SMC24**
+- [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. **IEEE Cyber**
+- [NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award, **CVPR2021 Workshop**
+- [End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. **ArXiv20**
+- [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://arxiv.org/pdf/1901.05602) Xiaoguang Tu, **Guodong Du**, et al. **ACM Transactions on Intelligent Systems and Technology (TIST 2020)**
 
 &nbsp; &nbsp; ( *: Co-first Author )
 
