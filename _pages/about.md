@@ -38,8 +38,8 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - [Knowledge Grafting of Large Language Models](https://openreview.net/pdf?id=SGIpg02iXD)
 - [Knowledge Fusion: A Comprehensive Survey.](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
-- [Multi-Modality Expansion And Retention For LLMs Through Parameter Merging And Decoupling](https://openreview.net/pdf?id=SGIpg02iXD), submitted to ICLR 2025
-- [Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression](https://openreview.net/pdf?id=SGIpg02iXD), submitted to AAAI 2025
+- [Multi-Modality Expansion And Retention For LLMs Through Parameter Merging And Decoupling](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/MMER_w_supp.pdf), submitted to ICLR 2025
+- [Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression](https://github.com/duguodong7/duguodong7.github.io/blob/master/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), submitted to AAAI 2025
 
 # 📝 Publications 
 
