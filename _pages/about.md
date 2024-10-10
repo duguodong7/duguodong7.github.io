@@ -81,12 +81,12 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 
 
-- `IEEE SMC24`[Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al. **IEEE SMC24**
-- `IJCNN24`[CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. 
-- `IEEE SMC24`[Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/pdf/2408.05556), Yisheng Yang, **Guodong Du**, et al. 
-- `IEEE Cyber24`[MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. 
-- `CVPR2021 Workshop`[NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award
-- `ArXiv20`[End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. 
+- `IEEE SMC 2024`[Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al. **IEEE SMC24**
+- `IJCNN 2024`[CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. 
+- `IEEE SMC 2024`[Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/pdf/2408.05556), Yisheng Yang, **Guodong Du**, et al. 
+- `IEEE Cyber 2024`[MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. 
+- `CVPR 2021 Workshop`[NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award
+- `ArXiv 2020`[End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. 
 - `TIST 2020`[Learning generalizable and identity-discriminative representations for face anti-spoofing](https://arxiv.org/pdf/1901.05602) Xiaoguang Tu, **Guodong Du**, et al. （ACM Transactions on Intelligent Systems and Technology）
 &nbsp; &nbsp; ( *: Co-first Author )
 
