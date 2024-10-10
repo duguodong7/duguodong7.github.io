@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guodong Du"
-description              : "Academic Homepage" [[CV]](https://duguodong7.github.io/files/guodong_cv.pdf)
+description              : "Academic Homepage"
 repository               : "duguodong7/duguodong7.github.io"
 google_scholar_stats_use_cdn : true
 
