@@ -45,8 +45,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-</div>
-</div>
+
 [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396)
 
 **Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
@@ -59,11 +58,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
 |
 [poster](https://arxiv.org/pdf/2410.02396)
 - We re-examine existing model merging methods, emphasizing the critical importance of parameter competition awareness, and introduce PCB-Merging, which effectively adjusts parameter coefficients. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-</div>
-</div>
+
 [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208)
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
@@ -76,6 +77,9 @@ My research interest includes knowledge transfer, fusion and compression, multim
 |
 [poster](https://arxiv.org/pdf/2406.12208)
 - Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method by evolving weights of  (large)  language models.
+</div>
+</div>
+
 
 - [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al. **IEEE SMC24**
 - [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. **IJCNN24**
