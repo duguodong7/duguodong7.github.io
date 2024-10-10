@@ -27,11 +27,11 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 - *2024.09*: &nbsp;One co-first author paper is submitted to ICLR 2025.
 
-- *2024.09*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
+- *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
 - *2024.08*: &nbsp;One first author paper is submitted to AAAI 2025.
-- *2024.07*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!.
-- *2024.05*: &nbsp;🎉🎉🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!.
-- *2024.03*: &nbsp;🎉🎉🎉 <span style="color: blue;">One co-first author papers is accepted by IJCNN 2024.</span> Thanks to all my collaborators!.
+- *2024.07*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!.
+- *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!.
+- *2024.03*: &nbsp;🎉 <span style="color: blue;">One co-first author papers is accepted by IJCNN 2024.</span> Thanks to all my collaborators!.
 - *2023.12*: &nbsp; <span style="color: gray;">Two first author papers are rejected by ICLR 2024.</span> 
 
 # 📝 Recent Projects 
@@ -86,6 +86,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 - `CVPR 2021 Workshop` [NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award.
 - `ArXiv 2020` [End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. 
 - `TIST 2020` [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://arxiv.org/pdf/1901.05602) Xiaoguang Tu, **Guodong Du**, et al. （ACM Transactions on Intelligent Systems and Technology）
+
 &nbsp; &nbsp; ( *: Co-first Author )
 
 # 🎖 Honors and Awards
