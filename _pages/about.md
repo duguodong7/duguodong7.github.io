@@ -79,7 +79,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 </div>
 </div>
 
-- `IEEE SMC 2024` [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al. **IEEE SMC24**
+- `IEEE SMC 2024` [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al.
 - `IJCNN 2024` [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. 
 - `IEEE SMC 2024` [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/pdf/2408.05556), Yisheng Yang, **Guodong Du**, et al. 
 - `IEEE Cyber 2024` [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. 
