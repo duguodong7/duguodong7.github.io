@@ -45,6 +45,8 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
 [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396)
 
 **Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
@@ -60,6 +62,8 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
 [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208)
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
