@@ -43,6 +43,24 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Grafting of Large Language Models](https://arxiv.org/abs/2505.18502)
+
+**Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li
+
+[arXiv](https://arxiv.org/abs/2505.18502)
+|
+<a href="https://github.com/duguodong7/graftllm"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
+|
+[code](https://github.com/duguodong7/graftllm)
+|
+[poster](https://arxiv.org/pdf/2410.02396)
+- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
