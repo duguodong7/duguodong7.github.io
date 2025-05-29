@@ -72,7 +72,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 [code](https://github.com/duguodong7/NPS-Pruning)
 |
 [poster](https://arxiv.org/pdf/2505.18713)
-- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
+- We propose Neural Parameter Search to enhance the efficiency of pruning fine-tuned models for better knowledge transfer, fusion, and compression of LLMs. 
 </div>
 </div>
 
