@@ -25,13 +25,12 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
-- *2024.09*: &nbsp;One co-first author paper is submitted to ICLR 2025.
-
+- *2024.09*: &nbsp;🎉 <span style="color: blue;">Two first author papers is accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
+- *2025.01*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICLR 2025.</span> 
+- *2024.12*: &nbsp; <span style="color: gray;">One first author paper is rejected by AAAI 2024.</span> 
 - *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
-- *2024.08*: &nbsp;One first author paper is submitted to AAAI 2025.
 - *2024.07*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!.
 - *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!.
-- *2024.03*: &nbsp;🎉 <span style="color: blue;">One co-first author papers is accepted by IJCNN 2024.</span> Thanks to all my collaborators!.
 - *2023.12*: &nbsp; <span style="color: gray;">Two first author papers are rejected by ICLR 2024.</span> 
 
 # 📝 Recent Projects 
@@ -50,13 +49,29 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 **Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li
 
-[arXiv](https://arxiv.org/abs/2505.18502)
+[paper](https://arxiv.org/abs/2505.18502)
 |
 <a href="https://github.com/duguodong7/graftllm"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
 |
 [code](https://github.com/duguodong7/graftllm)
 |
 [poster](https://arxiv.org/pdf/2410.02396)
+- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/nps_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li
+
+[paper](https://arxiv.org/abs/2505.18502)
+|
+<a href="https://github.com/duguodong7/NPS-Pruning"><img src="https://img.shields.io/github/stars/duguodong7/NPS-Pruning?style=social&label=Stars"></a>
+|
+[code](https://github.com/duguodong7/NPS-Pruning)
+|
+[poster](https://arxiv.org/pdf/2505.18713)
 - We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
 </div>
 </div>
@@ -68,7 +83,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 **Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
 
-[arXiv](https://arxiv.org/pdf/2410.02396)
+[paper](https://arxiv.org/pdf/2410.02396)
 |
 <a href="https://github.com/duguodong7/pcb-merging"><img src="https://img.shields.io/github/stars/duguodong7/pcb-merging?style=social&label=Stars"></a>
 |
@@ -86,7 +101,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
 
-[arXiv](https://arxiv.org/pdf/2406.12208)
+[paper](https://arxiv.org/pdf/2406.12208)
 |
 <a href="https://github.com/duguodong7/model-evolution"><img src="https://img.shields.io/github/stars/duguodong7/model-evolution?style=social&label=Stars"></a>
 |
