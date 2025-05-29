@@ -26,7 +26,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
 - *2025.05*: &nbsp; Two first author papers are submitted to NeurIPS 2025. 
-- *2025.05*: &nbsp;🎉 <span style="color: blue;">Two first author papers is accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
+- *2025.05*: &nbsp;🎉 <span style="color: blue;">Two first author papers are accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
 - *2025.05*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICML 2025.</span> 
 - *2025.01*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICLR 2025.</span> 
 - *2024.12*: &nbsp; <span style="color: gray;">One first author paper is rejected by AAAI 2024.</span> 
@@ -63,9 +63,11 @@ My research interest includes knowledge transfer, fusion and compression, multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/nps_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer](https://arxiv.org/abs/2505.18713)
+
 **Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li
 
-[paper](https://arxiv.org/abs/2505.18502)
+[paper](https://arxiv.org/abs/2505.18713)
 |
 <a href="https://github.com/duguodong7/NPS-Pruning"><img src="https://img.shields.io/github/stars/duguodong7/NPS-Pruning?style=social&label=Stars"></a>
 |
@@ -78,6 +80,8 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/mmer_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling](https://arxiv.org/abs/2505.17110)
 
 Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li
 
