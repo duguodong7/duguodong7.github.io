@@ -26,13 +26,13 @@ My research interest includes knowledge transfer, fusion and compression, multim
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
 - *2025.05*: &nbsp; Two first author papers are submitted to NeurIPS 2025. 
-- *2025.05*: &nbsp;🎉 <span style="color: blue;">Two first author papers are accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
+- *2025.05*: &nbsp;🎉 <span style="color: blue;">Two first author papers are accepted by ACL 2025 main.</span> Thanks to all my collaborators!!
 - *2025.05*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICML 2025.</span> 
 - *2025.01*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICLR 2025.</span> 
-- *2024.12*: &nbsp; <span style="color: gray;">One first author paper is rejected by AAAI 2024.</span> 
-- *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
-- *2024.07*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!.
-- *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!.
+- *2024.12*: &nbsp; <span style="color: gray;">One first author paper is rejected by AAAI 2025.</span> 
+- *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!!
+<!-- - *2024.07*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by IEEE SMC 2024.</span> Thanks to all my collaborators!. -->
+- *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!!
 - *2023.12*: &nbsp; <span style="color: gray;">Two first author papers are rejected by ICLR 2024.</span> 
 
 # 📝 Recent Projects 
