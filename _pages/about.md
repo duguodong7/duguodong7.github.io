@@ -25,7 +25,9 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
-- *2024.09*: &nbsp;🎉 <span style="color: blue;">Two first author papers is accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
+- *2025.05*: &nbsp; Two first author papers are submitted to NeurIPS 2025. 
+- *2025.05*: &nbsp;🎉 <span style="color: blue;">Two first author papers is accepted by ACL 2025 main.</span> Thanks to all my collaborators!.
+- *2025.05*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICML 2025.</span> 
 - *2025.01*: &nbsp; <span style="color: gray;">One first author paper is rejected by ICLR 2025.</span> 
 - *2024.12*: &nbsp; <span style="color: gray;">One first author paper is rejected by AAAI 2024.</span> 
 - *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!.
@@ -35,10 +37,8 @@ My research interest includes knowledge transfer, fusion and compression, multim
 
 # 📝 Recent Projects 
 
-- Knowledge Grafting of Large Language Models. [Poster](https://duguodong7.github.io/files/knowledge_grafting2.png)
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion), <a href="https://github.com/duguodong7/Awesome-Knowledge-Fusion"><img src="https://img.shields.io/github/stars/duguodong7/Awesome-Knowledge-Fusion?style=social&label=Stars"></a>
-- Multi-Modality LLMs Knowledge Fusion And Decoupling. [[PDF]](https://duguodong7.github.io/files/MMER_w_supp.pdf), [[Poster]](https://duguodong7.github.io/files/mmer2.png), submitted to ICLR 2025.
-- Neural Parameter Search For Improved Knowledge Transfer, Fusion and Compression. [[PDF]](https://duguodong7.github.io/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Poster]](https://duguodong7.github.io/files/NPS_pruning.png), submitted to AAAI 2025.
+- Multi-objective LLM Alignment with Hierarchical Experts. [[PDF]](https://duguodong7.github.io/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Poster]](https://duguodong7.github.io/files/NPS_pruning.png), submitted to NeurIPS 2025.
 
 # 📝 Publications 
 
@@ -73,6 +73,22 @@ My research interest includes knowledge transfer, fusion and compression, multim
 |
 [poster](https://arxiv.org/pdf/2505.18713)
 - We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/mmer_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li
+
+[paper](https://arxiv.org/abs/2505.17110)
+|
+<a href="https://github.com/duguodong7/NPS-Pruning"><img src="https://img.shields.io/github/stars/duguodong7/NPS-Pruning?style=social&label=Stars"></a>
+|
+[code](https://github.com/duguodong7/NPS-Pruning)
+|
+[poster](https://arxiv.org/pdf/2505.17110)
+- We propose MMER (Multi-modality Expansion and Retention), a training-free approach that integrates existing MLLMs for effective multimodal expansion while retaining their original performance. 
 </div>
 </div>
 
