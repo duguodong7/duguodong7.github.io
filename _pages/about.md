@@ -38,7 +38,7 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 📝 Recent Projects 
 
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion), <a href="https://github.com/duguodong7/Awesome-Knowledge-Fusion"><img src="https://img.shields.io/github/stars/duguodong7/Awesome-Knowledge-Fusion?style=social&label=Stars"></a>
-- Multi-objective LLM Alignment with Hierarchical Experts. [[PDF]](https://duguodong7.github.io/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Poster]](https://duguodong7.github.io/files/NPS_pruning.png), submitted to NeurIPS 2025.
+- Multi-objective LLM Alignment with Hierarchical Experts. [[PDF]](https://duguodong7.github.io/files/NPS_For_Knowledge_Transfer__Fusion_and_Compression_w_supp.pdf), [[Poster]](https://duguodong7.github.io/files/NPS_pruning.png).
 
 # 📝 Publications 
 
