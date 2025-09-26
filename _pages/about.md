@@ -58,7 +58,7 @@ Zitao Fang, **Guodong Du**,\* Jing Li, Ho-Kin Tang, Sim Kuan Goh
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Grafting of Large Language Models](https://arxiv.org/abs/2505.18502)
