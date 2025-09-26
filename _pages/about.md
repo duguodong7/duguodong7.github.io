@@ -34,17 +34,17 @@ My research interest includes knowledge transfer, fusion and compression, multim
 # 📝 Recent Projects 
 
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion), <a href="https://github.com/duguodong7/Awesome-Knowledge-Fusion"><img src="https://img.shields.io/github/stars/duguodong7/Awesome-Knowledge-Fusion?style=social&label=Stars"></a>
-<!-- - Multi-objective LLM Alignment with Hierarchical Experts. [[PDF]](https://arxiv.org/abs/2505.20925), [[Poster]](https://duguodong7.github.io/files/NPS_pruning.png).
-- Skill Weaving: Efficient Self-Improvement of LLMs via Modular Skillpacks -->
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/neuromerging.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/neuromerging.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging
 ](https://zzzitaofang.github.io/projects/NeuroMerging/)
-Zitao Fang, **Guodong Du**,* Jing Li, Ho-Kin Tang, Sim Kuan Goh
+
+Zitao Fang, **Guodong Du**,\* Jing Li, Ho-Kin Tang, Sim Kuan Goh
 
 [paper](https://arxiv.org/abs/2503.05320)
 |
