@@ -20,23 +20,60 @@ redirect_from:
 Hello there! I'm Guodong Du, currently pursuing my PhD at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). Before that, I was a research assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
 Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 
-My research interest includes knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
+My research interest includes VLA, RL in Embodiment Intelligence, knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
-- *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> Thanks to all my collaborators!!
-- *2025.05*: &nbsp;🎉 <span style="color: blue;">One first-author paper and one co-first author paper are accepted by ACL 2025 main.</span> Thanks to all my collaborators!!
-- *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author papers is accepted by NeurIPS 2024.</span> Thanks to all my collaborators!!
-- *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> Thanks to all my collaborators!!
+- *2025.08*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
+- *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> 
+- *2025.05*: &nbsp;🎉 <span style="color: blue;">One first-author and one co-first author paper are accepted by ACL 2025 main.</span> 
+- *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by NeurIPS 2024.</span> 
+- *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> 
 
 
 # 📝 Recent Projects 
 
+- FuseVLA, VLA+RL
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion), <a href="https://github.com/duguodong7/Awesome-Knowledge-Fusion"><img src="https://img.shields.io/github/stars/duguodong7/Awesome-Knowledge-Fusion?style=social&label=Stars"></a>
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Grafting of Large Language Models](https://arxiv.org/abs/2505.18502)
+
+**Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li
+
+[paper](https://arxiv.org/abs/2505.18502)
+|
+<a href="https://github.com/duguodong7/graftllm"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
+|
+[code](https://github.com/duguodong7/graftllm)
+|
+[poster](https://arxiv.org/pdf/2410.02396)
+- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-objective Large Language Model Alignment with Hierarchical Experts](https://arxiv.org/abs/https://arxiv.org/abs/2505.20925)
+
+Zhuo Li, **Guodong Du**, Wenya Wang, Min Zhang, Jing Li
+
+[paper](https://arxiv.org/abs/2505.20925)
+|
+<a href="https://github.com/duguodong7/pcb-merging"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
+|
+[code](https://github.com/duguodong7/pcb-merging)
+|
+[poster](https://arxiv.org/pdf/2410.02396)
+- HoE consists of three hierarchical components: LoRA Experts, Router Experts and Preference Routing, reaching optimal Pareto frontiers and achieving a trade-off between parameter size, training cost, and performance.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/neuromerging.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,25 +91,6 @@ Zitao Fang, **Guodong Du**,\* Jing Li, Ho-Kin Tang, Sim Kuan Goh
 |
 [poster](https://arxiv.org/abs/2503.05320)
 - we introduced NeuroMerging, a novel merging framework developed to mitigate task interference within neuronal subspaces, enabling training-free model fusion across diverse tasks.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Knowledge Grafting of Large Language Models](https://arxiv.org/abs/2505.18502)
-
-**Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li
-
-[paper](https://arxiv.org/abs/2505.18502)
-|
-<a href="https://github.com/duguodong7/graftllm"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/graftllm)
-|
-[poster](https://arxiv.org/pdf/2410.02396)
-- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
 </div>
 </div>
 
