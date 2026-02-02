@@ -25,7 +25,7 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
-- *2025.08*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
+- *2026.01*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
 - *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> 
 - *2025.05*: &nbsp;🎉 <span style="color: blue;">One first-author and one co-first author paper are accepted by ACL 2025 main.</span> 
 - *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by NeurIPS 2024.</span> 
@@ -62,7 +62,7 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 
 [Multi-objective Large Language Model Alignment with Hierarchical Experts](https://arxiv.org/abs/https://arxiv.org/abs/2505.20925)
 
-Zhuo Li, **Guodong Du**, Wenya Wang, Min Zhang, Jing Li
+Zhuo Li, **Guodong Du**\*, Wenya Wang, Min Zhang, Jing Li
 
 [paper](https://arxiv.org/abs/2505.20925)
 |
@@ -81,7 +81,7 @@ Zhuo Li, **Guodong Du**, Wenya Wang, Min Zhang, Jing Li
 [To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging
 ](https://zzzitaofang.github.io/projects/NeuroMerging/)
 
-Zitao Fang, **Guodong Du**,\* Jing Li, Ho-Kin Tang, Sim Kuan Goh
+Zitao Fang, **Guodong Du**\*,  Jing Li, Ho-Kin Tang, Sim Kuan Goh
 
 [paper](https://arxiv.org/abs/2503.05320)
 |
