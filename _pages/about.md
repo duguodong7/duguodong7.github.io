@@ -57,7 +57,7 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/hoe_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-objective Large Language Model Alignment with Hierarchical Experts](https://arxiv.org/abs/https://arxiv.org/abs/2505.20925)
