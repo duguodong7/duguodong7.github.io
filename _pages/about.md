@@ -27,7 +27,7 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 
 - *2026.01*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
 - *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> 
-- *2025.05*: &nbsp;🎉 <span style="color: blue;">One first-author and one co-first author paper are accepted by ACL 2025 main.</span> 
+- *2025.05*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ACL 2025 main.</span> 
 - *2024.09*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by NeurIPS 2024.</span> 
 - *2024.05*: &nbsp;🎉 <span style="color: blue;">One first author paper is accepted by ACL 2024 Findings.</span> 
 
@@ -178,10 +178,10 @@ Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li
 
 # 🎖 Honors and Awards
 - *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
-- *2017.09* National Encouragement scholarship
+- *2017.09* National scholarship
 - *2016.05* Honorable Award in MCM (The Mathematical Contest in Modeling)
 - *2016.05* National Encouragement scholarship
-- *2015.05* National scholarship
+- *2015.05* National Encouragement scholarship
 
 # 📖 Educations
 - *2019.09 - 2021.05*, Part-time PhD student, National University of Singapore (NUS)
