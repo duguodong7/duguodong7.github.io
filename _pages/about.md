@@ -25,6 +25,9 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
 
+
+
+- *2026.04*: &nbsp;🎉 <span style="color: blue;">One co-corresponding and one co-first author paper are accepted by ACL 2026 Findings.</span> 
 - *2026.01*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
 - *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> 
 - *2025.05*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ACL 2025 main.</span> 
