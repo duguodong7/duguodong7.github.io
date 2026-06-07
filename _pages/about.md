@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello there! I'm Guodong Du, currently pursuing my PhD at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). Before that, I was a research assistant at [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @Harbin Institute of Technology (Shenzhen).
-Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
+Prior to joining HITSZ, I was a research intern and master student in [Learning and Vision Lab](http://lv-nus.org) @National University of Singapore, advised by Professor [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/).  Besides, I had been working as an intern in the area of low level computer vision, mentored by [Xueyi Zou](https://scholar.google.com/citations?user=0ua28KoAAAAJ&hl=en), in [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 
 My research interest includes VLA, RL in Embodiment Intelligence, knowledge transfer, fusion and compression, multimodal, heuristic algorithms, spiking neural networks and low level computer vision.
 
@@ -37,147 +37,76 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 
 # 📝 Recent Projects 
 
-- FuseVLA, VLA+RL
-- Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion), <a href="https://github.com/duguodong7/Awesome-Knowledge-Fusion"><img src="https://img.shields.io/github/stars/duguodong7/Awesome-Knowledge-Fusion?style=social&label=Stars"></a>
+- FuseVLA-benchmark — a systematic benchmark for VLA model merging.
+- RoboMemPlan — memory-aware subtask planning for long-horizon embodied tasks.
+- Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/graftllm_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Knowledge Grafting of Large Language Models](https://arxiv.org/abs/2505.18502)
+<small>( <b>bold</b>: me &nbsp;·&nbsp; \*: co-first author &nbsp;·&nbsp; †: corresponding author )</small>
 
-**Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li
+### Preprints / Under Review
 
-[paper](https://arxiv.org/abs/2505.18502)
-|
-<a href="https://github.com/duguodong7/graftllm"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/graftllm)
-|
-[poster](https://arxiv.org/pdf/2410.02396)
-- We propose a knowledge grafting approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks. 
-</div>
-</div>
+- `Preprint` [**DiDi-Merging: Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
+  **Guodong Du**, Wanyu Lin† <br>
+  [paper](https://arxiv.org/abs/2605.18904) <br>
+  <span style="color:gray">A slim dynamic merging framework that uses differentiable rank allocation to balance shared and expert parameters, matching dynamic baselines at only ~1.24× the size of a single fine-tuned model, across vision, language, and multimodal tasks.</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/hoe_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Published
 
-[Multi-objective Large Language Model Alignment with Hierarchical Experts](https://arxiv.org/abs/https://arxiv.org/abs/2505.20925)
+- `ACL 2026 Findings` [**Skill Weaving: Efficient LLM Improvement via Modular Skillpacks**](https://arxiv.org/abs/2605.22205) <br>
+  Zhuo Li\*, **Guodong Du**\*, Zesheng Shi, Weiyang Guo, Jing Li† <br>
+  [paper](https://arxiv.org/abs/2605.22205) <br>
+  <span style="color:gray">A modular self-improvement framework that decomposes an LLM into lightweight skillpacks (delta modules) and refines each via rule-based verification and preference optimization—without external labels; SkillZip provides fully-quantized delta inference for fast, low-cost serving.</span>
 
-Zhuo Li, **Guodong Du**\*, Wenya Wang, Min Zhang, Jing Li
+- `ACL 2026 Findings` [**D-QReLO: Training- and Data-Free Delta Compression for LLMs via Quantization and Residual Low-Rank Approximation**](https://arxiv.org/abs/2604.16940) <br>
+  Junlin Li, **Guodong Du**†, Ngai Wong, Min Zhang, Jing Li, Xuelong Li† <br>
+  [paper](https://arxiv.org/abs/2604.16940) <br>
+  <span style="color:gray">A training- and data-free delta-compression method that pairs coarse one-bit quantization with compensated residual low-rank approximation to slim many fine-tuned deltas while preserving task fidelity.</span>
 
-[paper](https://arxiv.org/abs/2505.20925)
-|
-<a href="https://github.com/duguodong7/pcb-merging"><img src="https://img.shields.io/github/stars/duguodong7/graftllm?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/pcb-merging)
-|
-[poster](https://arxiv.org/pdf/2410.02396)
-- HoE consists of three hierarchical components: LoRA Experts, Router Experts and Preference Routing, reaching optimal Pareto frontiers and achieving a trade-off between parameter size, training cost, and performance.
-</div>
-</div>
+- `ICLR 2026` [**Knowledge Fusion of Large Language Models Via Modular SkillPacks**](https://arxiv.org/abs/2505.18502) <br>
+  **Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li† <br>
+  [paper](https://arxiv.org/abs/2505.18502) | [code](https://github.com/duguodong7/graftllm) <br>
+  <span style="color:gray">We propose a modular knowledge-fusion approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks.</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/neuromerging.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `ICLR 2026` [**Multi-objective Large Language Model Alignment with Hierarchical Experts (HoE)**](https://arxiv.org/abs/2505.20925) <br>
+  Zhuo Li, **Guodong Du**\*, Wenya Wang, Min Zhang, Jing Li† <br>
+  [paper](https://arxiv.org/abs/2505.20925) <br>
+  <span style="color:gray">HoE consists of three hierarchical components—LoRA Experts, Router Experts and Preference Routing—reaching strong Pareto frontiers and balancing parameter size, training cost, and performance.</span>
 
-[To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging
-](https://zzzitaofang.github.io/projects/NeuroMerging/)
+- `EMNLP 2025 main` [**To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging**](https://arxiv.org/abs/2503.05320) <br>
+  Zitao Fang, **Guodong Du**†, Jing Li, Ho-Kin Tang, Sim Kuan Goh† <br>
+  [paper](https://arxiv.org/abs/2503.05320) | [project](https://zzzitaofang.github.io/projects/NeuroMerging/) <br>
+  <span style="color:gray">We introduce NeuroMerging to mitigate task interference within neuronal subspaces, enabling training-free model fusion across diverse tasks.</span>
 
-Zitao Fang, **Guodong Du**\*,  Jing Li, Ho-Kin Tang, Sim Kuan Goh
+- `ACL 2025 main` [**Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer**](https://arxiv.org/abs/2505.18713) <br>
+  **Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li† <br>
+  [paper](https://arxiv.org/abs/2505.18713) | [code](https://github.com/duguodong7/NPS-Pruning) <br>
+  <span style="color:gray">We propose Neural Parameter Search to enhance the efficiency of pruning fine-tuned models for better knowledge transfer, fusion, and compression of LLMs.</span>
 
-[paper](https://arxiv.org/abs/2503.05320)
-|
-<a href="https://github.com/ZzzitaoFang/NeuroMerging"><img src="https://img.shields.io/github/stars/ZzzitaoFang/NeuroMerging?style=social&label=Stars"></a>
-|
-[code](https://zzzitaofang.github.io/projects/NeuroMerging/)
-|
-[poster](https://arxiv.org/abs/2503.05320)
-- we introduced NeuroMerging, a novel merging framework developed to mitigate task interference within neuronal subspaces, enabling training-free model fusion across diverse tasks.
-</div>
-</div>
+- `ACL 2025 main` [**Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling**](https://arxiv.org/abs/2505.17110) <br>
+  Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li† <br>
+  [paper](https://arxiv.org/abs/2505.17110) <br>
+  <span style="color:gray">We propose MMER, a training-free approach that integrates existing MLLMs for effective multimodal expansion while retaining their original performance.</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/nps_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `NeurIPS 2024` [**Parameter Competition Balancing for Model Merging**](https://arxiv.org/pdf/2410.02396) <br>
+  **Guodong Du**, Junlin Lee, Jing Li†, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang†, Min Zhang <br>
+  [paper](https://arxiv.org/pdf/2410.02396) | [code](https://github.com/duguodong7/pcb-merging) <br>
+  <span style="color:gray">We re-examine model merging methods, emphasize parameter-competition awareness, and introduce PCB-Merging to effectively adjust parameter coefficients.</span>
 
-[Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer](https://arxiv.org/abs/2505.18713)
+- `ACL 2024 Findings` [**Knowledge Fusion By Evolving Weights of Language Models**](https://arxiv.org/pdf/2406.12208) <br>
+  **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh†, Ho-Kin Tang† <br>
+  [paper](https://arxiv.org/pdf/2406.12208) | [code](https://github.com/duguodong7/model-evolution) <br>
+  <span style="color:gray">Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms—a novel knowledge fusion method by evolving weights of (large) language models.</span>
 
-**Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li
-
-[paper](https://arxiv.org/abs/2505.18713)
-|
-<a href="https://github.com/duguodong7/NPS-Pruning"><img src="https://img.shields.io/github/stars/duguodong7/NPS-Pruning?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/NPS-Pruning)
-|
-[poster](https://arxiv.org/pdf/2505.18713)
-- We propose Neural Parameter Search to enhance the efficiency of pruning fine-tuned models for better knowledge transfer, fusion, and compression of LLMs. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 main</div><img src='images/mmer_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling](https://arxiv.org/abs/2505.17110)
-
-Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li
-
-[paper](https://arxiv.org/abs/2505.17110)
-|
-<a href="https://github.com/duguodong7/NPS-Pruning"><img src="https://img.shields.io/github/stars/duguodong7/NPS-Pruning?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/NPS-Pruning)
-|
-[poster](https://arxiv.org/pdf/2505.17110)
-- We propose MMER (Multi-modality Expansion and Retention), a training-free approach that integrates existing MLLMs for effective multimodal expansion while retaining their original performance. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pcb_merging_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396)
-
-**Guodong Du**, Junlin Lee, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang, Min Zhang 
-
-[paper](https://arxiv.org/pdf/2410.02396)
-|
-<a href="https://github.com/duguodong7/pcb-merging"><img src="https://img.shields.io/github/stars/duguodong7/pcb-merging?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/pcb-merging)
-|
-[poster](https://arxiv.org/pdf/2410.02396)
-- We re-examine existing model merging methods, emphasizing the critical importance of parameter competition awareness, and introduce PCB-Merging, which effectively adjusts parameter coefficients. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/evolver_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208)
-
-**Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang 
-
-[paper](https://arxiv.org/pdf/2406.12208)
-|
-<a href="https://github.com/duguodong7/model-evolution"><img src="https://img.shields.io/github/stars/duguodong7/model-evolution?style=social&label=Stars"></a>
-|
-[code](https://github.com/duguodong7/model-evolution)
-|
-[poster](https://arxiv.org/pdf/2406.12208)
-- Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms. We introduce a novel knowledge fusion method by evolving weights of  (large)  language models.
-</div>
-</div>
+### Earlier Work
 
 - `IEEE SMC 2024` [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al.
-- `IJCNN 2024` [CADE: Cosine Annealing Differential Evolution for Spiking Neural Network](https://arxiv.org/pdf/2406.02349), Runhua Jiang\*, **Guodong Du**\*, et al. 
-- `IEEE SMC 2024` [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/pdf/2408.05556), Yisheng Yang, **Guodong Du**, et al. 
 - `IEEE Cyber 2024` [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. 
 - `CVPR 2021 Workshop` [NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award.
 - `ArXiv 2020` [End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. 
-- `TIST 2020` [Learning generalizable and identity-discriminative representations for face anti-spoofing](https://arxiv.org/pdf/1901.05602) Xiaoguang Tu, **Guodong Du**, et al. （ACM Transactions on Intelligent Systems and Technology）
 
-&nbsp; &nbsp; ( *: Co-first Author )
 
 # 🎖 Honors and Awards
 - *2021.10* 3rd Place Award in NTIRE 2021 Challenge on Video Super-resolution, Track I. (New Trends in Image Restoration and Enhacement Workshop, CVPR2021)
@@ -199,4 +128,3 @@ Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li
 - *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 - *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
 - *2018.01 - 2018.04*, YoueData, Chengdu, China
-
