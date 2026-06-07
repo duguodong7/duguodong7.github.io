@@ -50,55 +50,45 @@ My research interest includes VLA, RL in Embodiment Intelligence, knowledge tran
 
 - `Preprint` [**DiDi-Merging: Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
   **Guodong Du**, Wanyu Lin† <br>
-  [paper](https://arxiv.org/abs/2605.18904) <br>
-  <span style="color:gray">A slim dynamic merging framework that uses differentiable rank allocation to balance shared and expert parameters, matching dynamic baselines at only ~1.24× the size of a single fine-tuned model, across vision, language, and multimodal tasks.</span>
+  [paper](https://arxiv.org/abs/2605.18904)
 
 ### Published
 
 - `ACL 2026 Findings` [**Skill Weaving: Efficient LLM Improvement via Modular Skillpacks**](https://arxiv.org/abs/2605.22205) <br>
   Zhuo Li\*, **Guodong Du**\*, Zesheng Shi, Weiyang Guo, Jing Li† <br>
-  [paper](https://arxiv.org/abs/2605.22205) <br>
-  <span style="color:gray">A modular self-improvement framework that decomposes an LLM into lightweight skillpacks (delta modules) and refines each via rule-based verification and preference optimization—without external labels; SkillZip provides fully-quantized delta inference for fast, low-cost serving.</span>
+  [paper](https://arxiv.org/abs/2605.22205)
 
 - `ACL 2026 Findings` [**D-QReLO: Training- and Data-Free Delta Compression for LLMs via Quantization and Residual Low-Rank Approximation**](https://arxiv.org/abs/2604.16940) <br>
   Junlin Li, **Guodong Du**†, Ngai Wong, Min Zhang, Jing Li, Xuelong Li† <br>
-  [paper](https://arxiv.org/abs/2604.16940) <br>
-  <span style="color:gray">A training- and data-free delta-compression method that pairs coarse one-bit quantization with compensated residual low-rank approximation to slim many fine-tuned deltas while preserving task fidelity.</span>
+  [paper](https://arxiv.org/abs/2604.16940)
 
 - `ICLR 2026` [**Knowledge Fusion of Large Language Models Via Modular SkillPacks**](https://arxiv.org/abs/2505.18502) <br>
   **Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li† <br>
-  [paper](https://arxiv.org/abs/2505.18502) | [code](https://github.com/duguodong7/graftllm) <br>
-  <span style="color:gray">We propose a modular knowledge-fusion approach that efficiently transfers capabilities from heterogeneous LLMs to a target LLM through modular SkillPacks.</span>
+  [paper](https://arxiv.org/abs/2505.18502) | [code](https://github.com/duguodong7/graftllm)
 
 - `ICLR 2026` [**Multi-objective Large Language Model Alignment with Hierarchical Experts (HoE)**](https://arxiv.org/abs/2505.20925) <br>
   Zhuo Li, **Guodong Du**\*, Wenya Wang, Min Zhang, Jing Li† <br>
-  [paper](https://arxiv.org/abs/2505.20925) <br>
-  <span style="color:gray">HoE consists of three hierarchical components—LoRA Experts, Router Experts and Preference Routing—reaching strong Pareto frontiers and balancing parameter size, training cost, and performance.</span>
+  [paper](https://arxiv.org/abs/2505.20925)
 
 - `EMNLP 2025 main` [**To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging**](https://arxiv.org/abs/2503.05320) <br>
   Zitao Fang, **Guodong Du**†, Jing Li, Ho-Kin Tang, Sim Kuan Goh† <br>
-  [paper](https://arxiv.org/abs/2503.05320) | [project](https://zzzitaofang.github.io/projects/NeuroMerging/) <br>
-  <span style="color:gray">We introduce NeuroMerging to mitigate task interference within neuronal subspaces, enabling training-free model fusion across diverse tasks.</span>
+  [paper](https://arxiv.org/abs/2503.05320) | [project](https://zzzitaofang.github.io/projects/NeuroMerging/)
 
 - `ACL 2025 main` [**Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer**](https://arxiv.org/abs/2505.18713) <br>
   **Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li† <br>
-  [paper](https://arxiv.org/abs/2505.18713) | [code](https://github.com/duguodong7/NPS-Pruning) <br>
-  <span style="color:gray">We propose Neural Parameter Search to enhance the efficiency of pruning fine-tuned models for better knowledge transfer, fusion, and compression of LLMs.</span>
+  [paper](https://arxiv.org/abs/2505.18713) | [code](https://github.com/duguodong7/NPS-Pruning)
 
 - `ACL 2025 main` [**Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling**](https://arxiv.org/abs/2505.17110) <br>
   Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li† <br>
-  [paper](https://arxiv.org/abs/2505.17110) <br>
-  <span style="color:gray">We propose MMER, a training-free approach that integrates existing MLLMs for effective multimodal expansion while retaining their original performance.</span>
+  [paper](https://arxiv.org/abs/2505.17110)
 
 - `NeurIPS 2024` [**Parameter Competition Balancing for Model Merging**](https://arxiv.org/pdf/2410.02396) <br>
   **Guodong Du**, Junlin Lee, Jing Li†, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang†, Min Zhang <br>
-  [paper](https://arxiv.org/pdf/2410.02396) | [code](https://github.com/duguodong7/pcb-merging) <br>
-  <span style="color:gray">We re-examine model merging methods, emphasize parameter-competition awareness, and introduce PCB-Merging to effectively adjust parameter coefficients.</span>
+  [paper](https://arxiv.org/pdf/2410.02396) | [code](https://github.com/duguodong7/pcb-merging)
 
 - `ACL 2024 Findings` [**Knowledge Fusion By Evolving Weights of Language Models**](https://arxiv.org/pdf/2406.12208) <br>
   **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh†, Ho-Kin Tang† <br>
-  [paper](https://arxiv.org/pdf/2406.12208) | [code](https://github.com/duguodong7/model-evolution) <br>
-  <span style="color:gray">Model Evolution is the first approach to evolve neural parameters using Differential Evolutionary Algorithms—a novel knowledge fusion method by evolving weights of (large) language models.</span>
+  [paper](https://arxiv.org/pdf/2406.12208) | [code](https://github.com/duguodong7/model-evolution)
 
 ### Earlier Work
 
