@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guodong Du &ensp;&ensp;&ensp;&ensp;(杜国东)"
   avatar           : "images/duguodong.png"
-  bio              : "Harbin Institute of Technology (Shenzhen), HITSZ"
-  location         : "Shenzhen, China"
+  bio              : "PhD @ PolyU · LLMs, model merging &amp; alignment"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # TODO: 填真实 scholar id, 形如 https://scholar.google.com/citations?user=XXXXX
   email            : "duguodong7@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin 国东-杜" # https://www.linkedin.com/in/%E5%9B%BD%E4%B8%9C-%E6%9D%9C-30b496169/
+  linkedin         : "国东-杜-30b496169" # https://www.linkedin.com/in/国东-杜-30b496169/
   dblp             : # "https://dblp.org/pid/213/8915-4.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
