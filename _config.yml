@@ -27,7 +27,7 @@ author:
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    :  # TODO: 填真实 scholar id, 形如 https://scholar.google.com/citations?user=XXXXX
+  googlescholar    : "https://scholar.google.com/citations?user=txtnBsQAAAAJ"
   email            : "duguodong7@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
