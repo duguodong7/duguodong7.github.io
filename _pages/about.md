@@ -26,6 +26,7 @@ My research centers on **large language models** — **model merging & knowledge
 
 
 
+- *2026.09*: &nbsp;🎉 <span style="color: blue;">Two first-author papers are accepted by NeurIPS 2026.</span>
 - *2026.04*: &nbsp;🎉 <span style="color: blue;">One co-corresponding and one co-first author paper are accepted by ACL 2026 Findings.</span> 
 - *2026.01*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
 - *2025.08*: &nbsp;🎉 <span style="color: blue;">One co-corresponding paper is accepted by EMNLP 2025 main.</span> 
@@ -46,6 +47,10 @@ My research centers on **large language models** — **model merging & knowledge
 <small>( <b>bold</b>: me &nbsp;·&nbsp; \*: co-first author &nbsp;·&nbsp; †: corresponding author )</small>
 
 ### Model Merging & Knowledge Fusion
+
+- `NeurIPS 2026` [**Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
+  **Guodong Du**, Wanyu Lin† <br>
+  [paper](https://arxiv.org/abs/2605.18904)
 
 - `ICLR 2026` [**Knowledge Fusion of Large Language Models Via Modular SkillPacks**](https://arxiv.org/abs/2505.18502) <br>
   **Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li† <br>
@@ -71,10 +76,6 @@ My research centers on **large language models** — **model merging & knowledge
   Zhuo Li\*, **Guodong Du**\*, Zesheng Shi, Weiyang Guo, Jing Li† <br>
   [paper](https://arxiv.org/abs/2605.22205)
 
-- `Preprint` [**DiDi-Merging: Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
-  **Guodong Du**, Wanyu Lin† <br>
-  [paper](https://arxiv.org/abs/2605.18904)
-
 ### LLM Alignment & Post-training
 
 - `ICLR 2026` [**Multi-objective Large Language Model Alignment with Hierarchical Experts (HoE)**](https://arxiv.org/abs/2505.20925) <br>
@@ -88,6 +89,9 @@ My research centers on **large language models** — **model merging & knowledge
   [paper](https://arxiv.org/abs/2604.16940)
 
 ### Multimodal LLMs & Embodied Intelligence
+
+- `NeurIPS 2026` **NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models** <br>
+  **Guodong Du**, Wanyu Lin†
 
 - `ACL 2025 main` [**Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling**](https://arxiv.org/abs/2505.17110) <br>
   Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li† <br>
@@ -109,14 +113,16 @@ My research centers on **large language models** — **model merging & knowledge
 - *2015.05* National Encouragement scholarship
 
 # 📖 Educations
-- *2025.08 - 2028.06 (expected)*, Ph.D. student, The Hong Kong Polytechnic University (PolyU)
+- *2025.08 - 2029.06 (expected)*, Ph.D. student, The Hong Kong Polytechnic University (PolyU)
 - *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
 - *2016.07 - 2016.12*, Visiting, City University of Hong Kong (CityU) (Non-degree Undergraduate Exchange)
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
 
 # 💻 Internships
-- *2024.03 - 2024.09*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html), Shenzhen, China.
-- *2023.03 - 2024.09*, [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
+- *2026.08 - 2026.09*, Tencent Youtu Lab, multimodal code agents and WorkBuddy dataset/evaluation.
+- *2025.11 - Present*, Intellifusion, embodied AI and Vision-Language-Action models.
+- *2024.09 - 2025.05*, TeleAI, LLM post-training and multi-turn dialogue agents.
+- *2023.12 - 2025.08*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @ [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
 - *2019.09 - 2021.09*, [Learning and Vision Lab](http://lv-nus.org), Singapore.
 - *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 - *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
