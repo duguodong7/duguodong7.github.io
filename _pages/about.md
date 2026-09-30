@@ -119,10 +119,9 @@ My research centers on **large language models** — **model merging & knowledge
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
 
 # 💻 Internships
-- *2026.08 - 2026.09*, Tencent Youtu Lab, multimodal code agents and WorkBuddy dataset/evaluation.
-- *2025.11 - Present*, Intellifusion, embodied AI and Vision-Language-Action models.
 - *2024.09 - 2025.05*, TeleAI, LLM post-training and multi-turn dialogue agents.
-- *2023.12 - 2025.08*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @ [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
+- *2024.03 - 2024.09*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html), Shenzhen, China.
+- *2023.03 - 2024.09*, [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
 - *2019.09 - 2021.09*, [Learning and Vision Lab](http://lv-nus.org), Singapore.
 - *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
 - *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
