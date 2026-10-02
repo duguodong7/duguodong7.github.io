@@ -48,63 +48,63 @@ My research centers on **large language models** — **model merging & knowledge
 
 ### 2026
 
-- `NeurIPS 2026` [**Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
+- <span class="venue-tag venue-neurips">NeurIPS 2026</span> [**Dynamic Model Merging Made Slim**](https://arxiv.org/abs/2605.18904) <br>
   **Guodong Du**, Wanyu Lin† <br>
   [paper](https://arxiv.org/abs/2605.18904)
 
-- `NeurIPS 2026` **NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models** <br>
+- <span class="venue-tag venue-neurips">NeurIPS 2026</span> **NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models** <br>
   **Guodong Du**, Wanyu Lin†
 
-- `ACL 2026 Findings` [**Skill Weaving: Efficient LLM Improvement via Modular Skillpacks**](https://arxiv.org/abs/2605.22205) <br>
+- <span class="venue-tag venue-acl">ACL 2026 Findings</span> [**Skill Weaving: Efficient LLM Improvement via Modular Skillpacks**](https://arxiv.org/abs/2605.22205) <br>
   Zhuo Li\*, **Guodong Du**\*, Zesheng Shi, Weiyang Guo, Jing Li† <br>
   [paper](https://arxiv.org/abs/2605.22205)
 
-- `ACL 2026 Findings` [**D-QReLO: Training- and Data-Free Delta Compression for LLMs via Quantization and Residual Low-Rank Approximation**](https://arxiv.org/abs/2604.16940) <br>
+- <span class="venue-tag venue-acl">ACL 2026 Findings</span> [**D-QReLO: Training- and Data-Free Delta Compression for LLMs via Quantization and Residual Low-Rank Approximation**](https://arxiv.org/abs/2604.16940) <br>
   Junlin Li, **Guodong Du**†, Ngai Wong, Min Zhang, Jing Li, Xuelong Li† <br>
   [paper](https://arxiv.org/abs/2604.16940)
 
-- `ICLR 2026` [**Knowledge Fusion of Large Language Models Via Modular SkillPacks**](https://arxiv.org/abs/2505.18502) <br>
+- <span class="venue-tag venue-iclr">ICLR 2026</span> [**Knowledge Fusion of Large Language Models Via Modular SkillPacks**](https://arxiv.org/abs/2505.18502) <br>
   **Guodong Du**, Xuanning Zhou, Junlin Lee, Zhuo Li, Wanyu Lin, Jing Li† <br>
   [paper](https://arxiv.org/abs/2505.18502) | [code](https://github.com/duguodong7/graftllm)
 
-- `ICLR 2026` [**Multi-objective Large Language Model Alignment with Hierarchical Experts (HoE)**](https://arxiv.org/abs/2505.20925) <br>
+- <span class="venue-tag venue-iclr">ICLR 2026</span> [**Multi-objective Large Language Model Alignment with Hierarchical Experts (HoE)**](https://arxiv.org/abs/2505.20925) <br>
   Zhuo Li, **Guodong Du**\*, Wenya Wang, Min Zhang, Jing Li† <br>
   [paper](https://arxiv.org/abs/2505.20925)
 
 ### 2025
 
-- `EMNLP 2025 main` [**To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging**](https://arxiv.org/abs/2503.05320) <br>
+- <span class="venue-tag venue-emnlp">EMNLP 2025 main</span> [**To See a World in a Spark of Neuron: Disentangling Multi-task Interference for Training-free Model Merging**](https://arxiv.org/abs/2503.05320) <br>
   Zitao Fang, **Guodong Du**†, Jing Li, Ho-Kin Tang, Sim Kuan Goh† <br>
   [paper](https://arxiv.org/abs/2503.05320) | [project](https://zzzitaofang.github.io/projects/NeuroMerging/)
 
-- `ACL 2025 main` [**Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer**](https://arxiv.org/abs/2505.18713) <br>
+- <span class="venue-tag venue-acl">ACL 2025 main</span> [**Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer**](https://arxiv.org/abs/2505.18713) <br>
   **Guodong Du**, Zitao Fang, Junlin Lee, Runhua Jiang, Jing Li† <br>
   [paper](https://arxiv.org/abs/2505.18713) | [code](https://github.com/duguodong7/NPS-Pruning)
 
-- `ACL 2025 main` [**Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling**](https://arxiv.org/abs/2505.17110) <br>
+- <span class="venue-tag venue-acl">ACL 2025 main</span> [**Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling**](https://arxiv.org/abs/2505.17110) <br>
   Junlin Lee, **Guodong Du**\*, Wenya Wang, Jing Li† <br>
   [paper](https://arxiv.org/abs/2505.17110)
 
 ### 2024
 
-- `NeurIPS 2024` [**Parameter Competition Balancing for Model Merging**](https://arxiv.org/pdf/2410.02396) <br>
+- <span class="venue-tag venue-neurips">NeurIPS 2024</span> [**Parameter Competition Balancing for Model Merging**](https://arxiv.org/pdf/2410.02396) <br>
   **Guodong Du**, Junlin Lee, Jing Li†, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh, Ho-Kin Tang†, Min Zhang <br>
   [paper](https://arxiv.org/pdf/2410.02396) | [code](https://github.com/duguodong7/pcb-merging)
 
-- `ACL 2024 Findings` [**Knowledge Fusion By Evolving Weights of Language Models**](https://arxiv.org/pdf/2406.12208) <br>
+- <span class="venue-tag venue-acl">ACL 2024 Findings</span> [**Knowledge Fusion By Evolving Weights of Language Models**](https://arxiv.org/pdf/2406.12208) <br>
   **Guodong Du**, Jing Li, Hanting Liu, Runhua Jiang, Shuyang Yu, Yifei Guo, Sim Kuan Goh†, Ho-Kin Tang† <br>
   [paper](https://arxiv.org/pdf/2406.12208) | [code](https://github.com/duguodong7/model-evolution)
 
-- `IEEE SMC 2024` [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al.
-- `IEEE Cyber 2024` [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al. 
+- <span class="venue-tag venue-ieee">IEEE SMC 2024</span> [Impacts of Darwinian Evolution on Pre-trained Deep Neural Networks](https://arxiv.org/pdf/2408.05563), **Guodong Du**, et al.
+- <span class="venue-tag venue-ieee">IEEE Cyber 2024</span> [MOESR: Multi-Objective Evolutionary Algorithm for Image Super-Resolution](https://duguodong7.github.io/), **Guodong Du**, et al.
 
 ### 2021
 
-- `CVPR 2021 Workshop` [NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award.
+- <span class="venue-tag venue-cvpr">CVPR 2021 Workshop</span> [NTIRE 2021 challenge on video super-resolution](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf), 3rd Place Award.
 
 ### 2020
 
-- `ArXiv 2020` [End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al. 
+- <span class="venue-tag venue-arxiv">ArXiv 2020</span> [End-to-end Rain Streak Removal with RAW Images](https://arxiv.org/abs/2312.13304), **Guodong Du**, et al.
 
 
 # 🎖 Honors and Awards

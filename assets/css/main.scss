@@ -107,3 +107,59 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.venue-tag {
+    display: inline-block;
+    padding: .14em .5em;
+    margin-right: .18em;
+    border: 1px solid transparent;
+    border-radius: .35em;
+    font-size: .78em;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: .01em;
+    vertical-align: .08em;
+    white-space: nowrap;
+}
+
+.venue-neurips {
+    color: #4d35a9;
+    background: #ebe7ff;
+    border-color: #d2c8fb;
+}
+
+.venue-iclr {
+    color: #9a3d16;
+    background: #fff0e6;
+    border-color: #f4ceb9;
+}
+
+.venue-acl {
+    color: #126354;
+    background: #e3f6f1;
+    border-color: #b8ded4;
+}
+
+.venue-emnlp {
+    color: #805000;
+    background: #fff1d6;
+    border-color: #ecd19a;
+}
+
+.venue-cvpr {
+    color: #1557a0;
+    background: #e5f0ff;
+    border-color: #bed5f2;
+}
+
+.venue-ieee {
+    color: #435565;
+    background: #edf1f4;
+    border-color: #ccd5dc;
+}
+
+.venue-arxiv {
+    color: #803737;
+    background: #f6eeee;
+    border-color: #dfcaca;
+}
