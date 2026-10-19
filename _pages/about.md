@@ -52,8 +52,9 @@ My research centers on **large language models** — **model merging & knowledge
   **Guodong Du**, Wanyu Lin† <br>
   [paper](https://arxiv.org/abs/2605.18904)
 
-- <span class="venue-tag venue-neurips">NeurIPS 2026</span> **NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models** <br>
-  **Guodong Du**, Wanyu Lin†
+- <span class="venue-tag venue-neurips">NeurIPS 2026</span> [**NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models**](https://arxiv.org/pdf/2610.23271) <br>
+  **Guodong Du**, Wanyu Lin† <br>
+  [paper](https://arxiv.org/pdf/2610.23271)
 
 - <span class="venue-tag venue-acl">ACL 2026 Findings</span> [**Skill Weaving: Efficient LLM Improvement via Modular Skillpacks**](https://arxiv.org/abs/2605.22205) <br>
   Zhuo Li\*, **Guodong Du**\*, Zesheng Shi, Weiyang Guo, Jing Li† <br>
