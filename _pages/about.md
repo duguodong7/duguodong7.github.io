@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I'm Guodong Du, a PhD student at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
+Hello there! I'm Guodong Du, a PhD student at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). Before that, I was a research assistant at the [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @ Harbin Institute of Technology (Shenzhen), working with Prof. Jing Li. Earlier, I was a master's student and research intern at the [Learning and Vision Lab](http://lv-nus.org) @ National University of Singapore, advised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/), and interned at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home).
 
 My research spans **large language models** and **Agentic Robotics**. My earlier work focuses on **model merging & knowledge fusion**, **post-training & alignment**, and model efficiency. My current work focuses on **embodied-agent pre-training**, long-horizon planning, memory and skill learning, and self-improving agents. I am also preparing a **survey on Agentic Robotics** that organizes the emerging landscape from multimodal and 3D perception to planning, learning, and closed-loop evolution.
 
@@ -120,3 +120,12 @@ My research spans **large language models** and **Agentic Robotics**. My earlier
 - *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
 - *2016.07 - 2016.12*, Visiting, City University of Hong Kong (CityU) (Non-degree Undergraduate Exchange)
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
+
+# 💻 Internships
+- *2024.09 - 2025.05*, TeleAI, LLM post-training and multi-turn dialogue agents.
+- *2024.03 - 2024.09*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html), Shenzhen, China.
+- *2023.03 - 2024.09*, [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
+- *2019.09 - 2021.09*, [Learning and Vision Lab](http://lv-nus.org), Singapore.
+- *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
+- *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
+- *2018.01 - 2018.04*, YoueData, Chengdu, China
