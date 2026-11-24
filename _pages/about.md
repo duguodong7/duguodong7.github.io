@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I'm Guodong Du, a PhD student at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). Before that, I was a research assistant at the [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html) @ Harbin Institute of Technology (Shenzhen), working with Prof. Jing Li. Earlier, I was a master's student and research intern at the [Learning and Vision Lab](http://lv-nus.org) @ National University of Singapore, advised by Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Jiashi Feng](https://sites.google.com/site/jshfeng/), and interned at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home).
+Hello there! I'm Guodong Du, a PhD student at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
 
-My research centers on **large language models** — **model merging & knowledge fusion**, **post-training & alignment** (RLHF / multi-objective), and **training & inference efficiency** (compression, pruning, quantization). More recently I also work on multimodal LLMs and embodied intelligence (Vision-Language-Action).
+My research spans **large language models** and **Agentic Robotics**. My earlier work focuses on **model merging & knowledge fusion**, **post-training & alignment**, and model efficiency. My current work focuses on **embodied-agent pre-training**, long-horizon planning, memory and skill learning, and self-improving agents. I am also preparing a **survey on Agentic Robotics** that organizes the emerging landscape from multimodal and 3D perception to planning, learning, and closed-loop evolution.
 
 # 🔥 News
  <span style="color: blue;">Good News</span>      <span style="color: gray;">Bad News</span>.
-
-
-
+- *2026.11*: &nbsp;Working on an **Agentic Robotics survey** and **embodied-agent pre-training** with multimodal, 3D, and embodied-interaction data.
 - *2026.09*: &nbsp;🎉 <span style="color: blue;">Two first-author papers are accepted by NeurIPS 2026.</span>
 - *2026.04*: &nbsp;🎉 <span style="color: blue;">One co-corresponding and one co-first author paper are accepted by ACL 2026 Findings.</span> 
 - *2026.01*: &nbsp;🎉 <span style="color: blue;">One first author and one co-first author paper are accepted by ICLR 2026.</span> 
@@ -37,6 +35,8 @@ My research centers on **large language models** — **model merging & knowledge
 
 # 📝 Recent Projects 
 
+- **Agentic Robotics: A Survey** *(work in progress)* — organizing embodied agents around perception, planning, memory and skills, learning, and self-improvement in the physical world.
+- **Embodied Agent Pre-training** — constructing and aligning multimodal, 3D, and embodied-interaction data mixtures to strengthen spatial understanding, embodied reasoning, and transferable decision-making.
 - Knowledge Fusion: A Comprehensive Survey. [Github Repo](https://github.com/duguodong7/Awesome-Knowledge-Fusion)
 - FuseVLA-benchmark — a systematic benchmark for VLA model merging.
 - RoboMemPlan — memory-aware subtask planning for long-horizon embodied tasks.
@@ -116,16 +116,7 @@ My research centers on **large language models** — **model merging & knowledge
 - *2015.05* National Encouragement scholarship
 
 # 📖 Educations
-- *2025.08 - 2029.06 (expected)*, Ph.D. student, The Hong Kong Polytechnic University (PolyU)
+- *2025.08 - 2028.06 (expected)*, Ph.D. student, The Hong Kong Polytechnic University (PolyU)
 - *2018.08 - 2019.05*, M.S., National University of Singapore (NUS) 
 - *2016.07 - 2016.12*, Visiting, City University of Hong Kong (CityU) (Non-degree Undergraduate Exchange)
 - *2014.08 - 2018.06*, B.S., University of Electronic Science and Technology of China (UESTC)
-
-# 💻 Internships
-- *2024.09 - 2025.05*, TeleAI, LLM post-training and multi-turn dialogue agents.
-- *2024.03 - 2024.09*, [Knowledge and Language Computing Lab](http://www.li-jing.com/team.html), Shenzhen, China.
-- *2023.03 - 2024.09*, [Harbin Institute of Technology (Shenzhen)](http://en.hitsz.edu.cn/), China.
-- *2019.09 - 2021.09*, [Learning and Vision Lab](http://lv-nus.org), Singapore.
-- *2020.08 - 2021.04*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home), Shenzhen, China.
-- *2019.01 - 2019.09*, [Biomind](https://www.biomind.cn), Singapore.
-- *2018.01 - 2018.04*, YoueData, Chengdu, China

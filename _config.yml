@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guodong Du &ensp;&ensp;&ensp;&ensp;(杜国东)"
   avatar           : "images/duguodong.png"
-  bio              : "PhD @ PolyU · LLMs, model merging &amp; alignment"
+  bio              : "PhD @ PolyU · Agentic Robotics &amp; Embodied AI"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "duguodong7"
   vine             :
 
 
